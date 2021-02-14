@@ -1,0 +1,44 @@
+body{
+    background: cornsilk;
+  }
+  img{
+    float: left;
+    width: 320px;
+    margin: 10px;
+    border-color: saddlebrown;
+    border-width: 4px;
+    border-style: solid;
+    border-radius: 10px;
+  }
+  
+  p{
+    width: 800px;
+    font-size: 16px;
+    font-family: sans-serif;
+    color: grey;
+  }
+  
+  h6{
+    text-align: left;
+  }
+    
+  h2{
+    color: dodgerblue;
+    text-shadow: 2px -2px pink;
+    font-family: sans-serif;
+    letter-spacing: 3px;
+  }
+  
+  h1{
+    font-family: sans-serif;
+    color: grey;
+    letter-spacing: 3px;
+    text-shadow: 2px -2px pink;
+    text-align: left;
+  }
+  
+  h4{
+    font-family: sans-serif;
+    text-shadow: 2px -2px white;
+    
+  }
